@@ -1,0 +1,4 @@
+﻿C:\Users\PauloJorge\Documents\code\AGP_Tavares\model_shaders.hlsl(37,25): warning X3206: 'dot': implicit truncation of vector type
+FXC : error X3501: 'main': entrypoint not found
+  
+  compilation failed; no code produced
